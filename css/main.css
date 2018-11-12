@@ -1,5 +1,5 @@
 html {
-  font: Bevan, sanserif;
+  font: Bevan, sans-serif;
   box-sizing: border-box;
 }
 *, *::before, *::after {
@@ -8,12 +8,14 @@ html {
 
 body {
   margin: .3em;
+  color: #fff;
 }
 
 header {
   border: 3px solid #595652;
   background-color: #79756f;
   padding: .75em;
+  text-align: center;
 
 }
 
@@ -37,6 +39,7 @@ h1 {
   display: inline-block;
   font-family: sans-serif;
 }
+
  ul {
    margin: .3em;
    padding: .75;
@@ -44,8 +47,7 @@ h1 {
    text-decoration: none;
 }
 
-
-a:link {
+a {
   color: #fff;
   text-decoration: none;
 }
