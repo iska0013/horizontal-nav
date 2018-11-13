@@ -15,20 +15,21 @@ body {
 header {
   border: 3px solid #595652;
   background-color: #79756f;
-  padding: .75em;
+  padding: 0;
+  margin: 0;
   text-align: center;
 }
 
 h1 {
   color: #fff;
   font-family: Bevan, serif;
-  padding: 0;
-  margin: 0;
+  padding: .01em;
+  margin: .01em;
 }
 
 .menu li {
   margin: .1em;
-  padding: .5em .75em;
+  padding: .6em;
   list-style-type: none;
   text-align: center;
   background-color: #713837;
