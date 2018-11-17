@@ -45,8 +45,9 @@ a:hover {
 }
 
 ul {
-  margin: .3em;
+  margin: 0;
   padding: .75em;
+  padding-top: .2em;
   color: #fff;
   text-decoration: none;
 }
